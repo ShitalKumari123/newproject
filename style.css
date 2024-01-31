@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.brand img
+{
+    width: 20px;
+    padding: 0 8px; 
+}
+.brand
+{
+    color: white;
+  
+}
+nav{
+    background-color: black;
+    height: 40px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+nav ul li{
+
+}
+nav ul li a{
+    text-decoration: none;
+}
